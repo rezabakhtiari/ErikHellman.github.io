@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02c812bc-ef83-4eb2-87b7-9985c7a4002e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-    </list>
+    <list default="true" id="02c812bc-ef83-4eb2-87b7-9985c7a4002e" name="Default" comment="" />
     <ignored path="hellsoft.se.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -327,12 +324,12 @@
       <option name="presentableId" value="Default" />
       <updated>1463216849657</updated>
       <workItem from="1463216852639" duration="68000" />
-      <workItem from="1463216937561" duration="2638000" />
+      <workItem from="1463216937561" duration="2669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2706000" />
+    <option name="totallyTimeSpent" value="2737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
