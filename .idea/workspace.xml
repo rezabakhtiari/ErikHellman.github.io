@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c812bc-ef83-4eb2-87b7-9985c7a4002e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/speaking.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/training.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-23-first-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-04-23-first-post.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
     </list>
     <ignored path="hellsoft.se.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="249">
@@ -65,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="135">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -105,8 +101,8 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/speaking.md" />
         <option value="$PROJECT_DIR$/training.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -331,16 +327,16 @@
       <option name="presentableId" value="Default" />
       <updated>1463216849657</updated>
       <workItem from="1463216852639" duration="68000" />
-      <workItem from="1463216937561" duration="2552000" />
+      <workItem from="1463216937561" duration="2638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2620000" />
+    <option name="totallyTimeSpent" value="2706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -351,7 +347,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -399,17 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="125" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="125" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/training.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -418,14 +403,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,6 +418,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="125" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="125" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
