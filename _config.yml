@@ -2,15 +2,13 @@
 title: Hellman Software AB
 email: erik.hellman@hellsoft.se
 description: > # this means to ignore newlines until "baseurl:"
-  I am Erik Hellman and I run the company Hellman Software, a consultancy 
-  company focused on Android, IoT and cloud techonology. This is the 
-  website and blog for my work where I will share my thoughts and tips 
-  that hopefully can be useful to other developers. 
+  Hellman Software AB is the software development consultancy for Erik Hellman.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.hellsoft.se" # the base hostname & protocol for your site
 twitter_username: ErikHellman
 github_username:  ErikHellman
+linkedin: 'https://se.linkedin.com/in/erikhelllman'
 # google_play: 'GDGX'
 # google_plus_com: '109485346959707049693'  # Community link
 # google_plus_per: '+GDGManagua'  #Personal link
