@@ -1,14 +1,14 @@
 # Site settings
-title: Hellman Software AB
-email: erik.hellman@hellsoft.se
+title: Reza Bakhtiari, PhD
+email: bakhtiari.reza(at)gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hellman Software AB is the software development consultancy for Erik Hellman.
+  I am Reza Baktiari, PhD in physics with interest in data science.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://erikhellman.github.io" # the base hostname & protocol for your site
-twitter_username: ErikHellman
-github_username:  ErikHellman
-linkedin: 'https://se.linkedin.com/in/erikhelllman'
+url: "https://rezabakhtiari.github.io" # the base hostname & protocol for your site
+twitter_username: mreza_de
+github_username:  rezabakhtiari
+linkedin: 'https://www.linkedin.com/in/reza-bakhtiari-b5627333'
 # google_play: 'GDGX'
 # google_plus_com: '109485346959707049693'  # Community link
 # google_plus_per: '+GDGManagua'  #Personal link
