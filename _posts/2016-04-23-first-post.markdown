@@ -6,8 +6,8 @@ categories: General
 highlight: true
 image: /assets/android.png
 ---
-### Welcome to my page!
-My name is Reza Bakhtiari and currently I am a Data Scientist / Consultant in A1Digital in München (and Wien).
+### **Welcome**!
+My name is Reza Bakhtiari and currently I am a Data Scientist / Consultant in A1-Digital in München (and Wien).
 
 
 
