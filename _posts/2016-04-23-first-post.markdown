@@ -7,7 +7,7 @@ highlight: true
 image: /assets/android.png
 ---
 ### Welcome to my page!
-My name is Reza Bakhtiari and currently I am a researcher in physics department of Hamburg university, Germany. here you'll find more...
+My name is Reza Bakhtiari and currently I am a Data Scientist / Consultant in A1Digital in München (and Wien).
 
 
 
