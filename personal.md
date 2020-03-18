@@ -3,4 +3,4 @@ layout: page
 title: Personal
 permalink: /personal
 ---
-_Who am I?_
+Born in Darab (Iran), dual citizenship Germany+Iran. Fluent speaker of German, Italian, English + Farsi (native)
