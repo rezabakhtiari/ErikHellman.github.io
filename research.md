@@ -7,3 +7,5 @@ permalink: /research
 
 - my PhD thesis (_**Quantum Gases in Quasi-One-Dimensional Arrays**_) published as selected thesis on [amazon](https://goo.gl/CjT7cj "Bakhtiari thesis")
 
+- my PhD avdisor: **Prof Mario Tosi** (deceased 2015) [In Memoriam](https://www.ictp.it/about-ictp/media-centre/news/news-archive/2015/11/tosi_memoriam.aspx "Tosi ICTP")
+
